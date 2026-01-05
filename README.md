@@ -12,4 +12,7 @@ To use the shader
 
 The shader will now be active.  
 
-If you want to edit the shader right-click on the node and choose **Ungroup** or press **Ctrl + Alt + G**
+If you want to edit the shader right click on the node and choose **Ungroup** or press **Ctrl + Alt + G**
+
+Designed for **Eevee** but probobly works in Cycles too
+Made in blender version **5.0.1** 
