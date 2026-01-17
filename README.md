@@ -7,8 +7,8 @@ To use the shader
 5 Pick **Layer_weight_color** and click **Append**  
 6 Go to the **Shader Editor**  
     If there is no material add a new one  
-7. In the Shader Editor do **Add -> Group -> Layer_weight_color**  
-8. Delete the old **Principled BSDF** and **Material Output** nodes  
+7 In the Shader Editor do **Add -> Group -> Layer_weight_color**  
+8 Delete the old **Principled BSDF** and **Material Output** nodes  
 
 The shader will now be active.  
 
